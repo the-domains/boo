@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5842294
+  brandStrength: 0.4874552
+  lightness: 0.6075269
+  brandColors:
+    - '#030304'
+    - '#C6DFF3'
+    - '#6D6665'
+    - '#282F42'
+    - '#1F4A90'
+  rhythmicContrast: 0.8136201
+typography_spectrum: 0.1971326
+name: Boo
