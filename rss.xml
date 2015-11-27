@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Boo]]></title>
         <description><![CDATA[Boo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/boo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:08:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 Nov 2015 17:41:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/boo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Some indoor fun for the winter.]]></title>
+            <description><![CDATA[<article><h1>Some indoor fun for the winter.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bc782e6-23c7-40c4-9baa-09982d3aaa27.png"></article>]]></description>
+            <link>https://thegrid.ai/boo/some-indoor-fun-for-the-winter/index.html</link>
+            <guid isPermaLink="false">f3e8938e-8662-4223-bec0-80ec1bdb9d71</guid>
+            <pubDate>Fri, 27 Nov 2015 17:41:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["We do family to share Jesus with others."]]></title>
             <description><![CDATA[<article><h1>"We do family to share Jesus with others."</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b627bd22-f920-4b79-b33c-5d53b26abe74.png"></article>]]></description>
-            <link>undefinedwe-do-family-to-share-jesus-with-others/index.html</link>
+            <link>https://thegrid.ai/boo/we-do-family-to-share-jesus-with-others/index.html</link>
             <guid isPermaLink="false">135369b6-eb34-41dd-a76c-59df1c2aa20d</guid>
             <pubDate>Wed, 25 Nov 2015 19:08:15 GMT</pubDate>
         </item>
