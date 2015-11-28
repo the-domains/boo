@@ -1,26 +1,26 @@
-color:
-  saturation: 0.5842294
-  brandStrength: 0.4874552
-  rhythmicContrast: 0.8136201
-  brandColors:
-    - '#030304'
-    - '#C6DFF3'
-    - '#6D6665'
-    - '#282F42'
-    - '#1F4A90'
-  lightness: 0.6075269
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.1971326
+color:
+  saturation: 0.5591398
+  lightness: 0.6559139
+  brandStrength: 0.9014337
+  brandColors:
+    - '#030304'
+    - '#C6DFF3'
+    - '#6D6665'
+    - '#282F42'
+    - '#1F4A90'
+  rhythmicContrast: 0.8691756
+layout_spectrum: 1
 name: Boo
