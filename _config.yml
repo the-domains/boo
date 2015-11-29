@@ -1,6 +1,6 @@
 name: Boo
 favicon: null
-layout_spectrum: 0.5198
+layout_spectrum: 0.82178
 typography_spectrum: 0.30198
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#030304'
-    - '#C6DFF3'
-    - '#6D6665'
-    - '#282F42'
-    - '#1F4A90'
+    - '#f48a3e'
+    - '#000000'
+    - '#ffffff'
+    - '#424242'
+    - '#737373'
   brandStrength: 0
-  lightness: 0.7365592
-  saturation: 0.5573477
-  rhythmicContrast: 0.7795699
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
