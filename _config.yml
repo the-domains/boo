@@ -1,40 +1,40 @@
-name: Boo
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.30198
+name: Boo
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.5573477
+  lightness: 0.7365592
+  brandStrength: 0
   brandColors:
     - '#030304'
     - '#C6DFF3'
     - '#6D6665'
     - '#282F42'
     - '#1F4A90'
-  brandStrength: 0.1875
-  lightness: 0.1875
-  saturation: 0.3125
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.7795699
+typography_spectrum: 0.30198
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
