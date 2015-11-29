@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:2cf5f0ac-ea89-49cc-87a2-9cb0dcfbc18d'
 author: []
-datePublished: '2015-11-25T19:08:15.433Z'
+datePublished: '2015-11-29T16:26:31.441Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: '"We do family to share Jesus with others."'
-dateModified: '2015-11-25T19:06:08.460Z'
+dateModified: '2015-11-29T16:26:28.105Z'
 sourcePath: _posts/2015-11-25-we-do-family-to-share-jesus-with-others.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: we-do-family-to-share-jesus-with-others/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
