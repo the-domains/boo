@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:641b8ec4-cfc4-4ce0-a888-01ac16a2eece'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2015-11-29T16:26:13.773Z'
+dateModified: '2015-11-29T16:25:49.342Z'
 author: []
-datePublished: '2015-11-27T17:41:09.994Z'
-publisher:
-  domain: ''
-  name: ''
-title: Some indoor fun for the winter.
-dateModified: '2015-11-27T13:01:55.371Z'
+title: '"Adults are just outdated children." -Dr. Seuss'
 sourcePath: _posts/2015-11-27-some-indoor-fun-for-the-winter.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: some-indoor-fun-for-the-winter/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Some indoor fun for the winter.
+# "Adults are just outdated children." -Dr. Seuss
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bc782e6-23c7-40c4-9baa-09982d3aaa27.png)
